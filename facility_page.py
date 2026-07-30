@@ -1,3 +1,4 @@
+# Copyright 2026, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED
 import os
 import random
 import pandas as pd

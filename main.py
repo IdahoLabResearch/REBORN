@@ -1,3 +1,4 @@
+# Copyright 2026, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED
 # Importing all the relevant libraries
 import sys
 from PyQt6.QtWidgets import QApplication, QWidget, QLabel, QVBoxLayout, QMainWindow, QStackedWidget, QPushButton, QHBoxLayout

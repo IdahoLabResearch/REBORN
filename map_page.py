@@ -1,3 +1,4 @@
+# Copyright 2026, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED
 import sys
 from PyQt6.QtWidgets import QWidget, QVBoxLayout, QPushButton, QHBoxLayout, QComboBox, QSlider, QLabel, QTabWidget, QListWidget, QAbstractItemView
 from PyQt6.QtCore import Qt, QSignalBlocker 

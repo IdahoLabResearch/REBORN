@@ -1,3 +1,4 @@
+# Copyright 2026, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED
 from sidebar import SideBar
 from PyQt6.QtWidgets import (
     QWidget, QVBoxLayout, QPushButton, QHBoxLayout, QComboBox, QSlider, QLabel,

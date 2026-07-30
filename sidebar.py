@@ -1,3 +1,4 @@
+# Copyright 2026, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED
 from PyQt6.QtWidgets import QWidget, QVBoxLayout, QPushButton, QButtonGroup
 from PyQt6.QtCore import Qt, QSignalBlocker
 
