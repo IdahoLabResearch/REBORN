@@ -1,4 +1,4 @@
-# REBORN — Reverse-logistics Optimization for Battery Recycling Networks
+# REBORN — Reverse logistics for End-of-life Batteries through Optimization of Recycling Networks
 
 **Copyright 2026, Battelle Energy Alliance, LLC. All Rights Reserved.**
 
