@@ -141,8 +141,8 @@ Or double-click `run_reborn.bat` (Windows) if provided.
 | `us-states.json` | GeoJSON boundaries for US states (map rendering) |
 | `Pyomo_Ex_DB.json` / `Pyomo_Ex_DB.xlsx` | Default recycling/repurposing facility database |
 | `Car_USA.json` / `Car_USA.xlsx` | Default car-dealership (collection point) database |
-| `default_data_regions.xlsx` | ABM demand data — Region level |
-| `default_data_states.xlsx` | ABM demand data — State level |
+| `default_data_regions.xlsx` | Default demand data — Region level |
+| `default_data_states.xlsx` | Default demand data — State level |
 | `cb_2021_us_state_500k.zip` | US state shapefile (used during optimization) |
 | `map1.png` | Reference US regions map shown on the Location page |
 | `REBORN_Pathway.png` | Pathway diagram shown on the Home page |
