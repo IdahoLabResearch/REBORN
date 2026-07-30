@@ -40,7 +40,7 @@ assigned battery volumes, routes, costs, and facility opening periods.
 
 - Geographic analysis at US region, multi-state, state, county, and city scales.
 - Single-year or multi-year battery recycling and repurposing demand analysis.
-- Built-in ABM-derived default demand data plus manual year-by-year data entry.
+- Built-in default demand data plus manual year-by-year data entry.
 - CSV and Excel export of custom demand inputs.
 - Interactive maps of selected geographies and existing collection,
   repurposing, and recycling facilities.
