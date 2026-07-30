@@ -155,6 +155,17 @@ Or double-click `run_reborn.bat` (Windows) if provided.
 | `Photos/` | Team member photos |
 | `Descriptions/` | Team member biography text files |
 
+## Data Acknowledgments
+
+REBORN uses facility-location data and cost data from the following sources,
+respectively:
+
+- **Facility locations:** [NAATBatt Lithium-Ion Battery Supply Chain Database](https://www.nlr.gov/transportation/li-ion-battery-supply-chain-database), developed by the National Laboratory of the Rockies (NLR) for NAATBatt International.
+- **Costs:** [EverBatt](https://www.anl.gov/amd/everbatt), developed by Argonne National Laboratory.
+
+REBORN acknowledges these organizations and database developers for making these
+data resources available.
+
 ---
 
 ## Output Files
