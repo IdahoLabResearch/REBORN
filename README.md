@@ -10,6 +10,11 @@ REBORN is a PyQt6 desktop application that runs Pyomo-based optimization models
 to identify cost-effective reverse-logistics networks for battery recycling and
 repurposing. It supports geographic scopes from individual counties up to
 multi-region national analyses.
+## Free Version
+
+This repository contains the free version of REBORN. For access to the more
+complete and detailed version of the software, please contact the Idaho National
+Laboratory (INL) team using the contact information below.
 
 ## How REBORN Models the Battery Workflow
 
@@ -163,12 +168,6 @@ Output includes:
 - `*_Aggregated_Final_Results.xlsx` — year-by-year summary metrics
 - `*_Breakdown_Final_Results.xlsx` — detailed cost breakdown per year
 - HTML map files per year (opened in the Results viewer)
-
----
-
-## Building a Standalone Executable (optional)
-
-See `BUILD_INSTRUCTIONS.md` for step-by-step PyInstaller packaging instructions.
 
 ---
 
