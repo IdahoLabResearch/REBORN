@@ -1,0 +1,15 @@
+PyQt6>=6.5
+PyQt6-WebEngine>=6.5
+pyomo>=6.7
+cplex>=22.1
+pandas>=2.0
+openpyxl>=3.1
+geopandas>=0.14
+shapely>=2.0
+folium>=0.15
+branca>=0.7
+geopy>=2.4
+requests>=2.31
+matplotlib>=3.8
+numpy>=1.26
+pyinstaller>=6.0
