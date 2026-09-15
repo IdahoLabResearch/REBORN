@@ -1239,7 +1239,7 @@ class SettingsPage(QWidget):
                 # Extract labels and values
                 labels = list(costs.keys())
                 values = list(costs.values())
-                cmap = cm.get_cmap('tab20c')
+                cmap = plt.get_cmap('tab20c')
                 colors = cmap(range(len(values)))
                 # Plot the pie chart
                 fig, ax = plt.subplots(figsize=(8, 8))
